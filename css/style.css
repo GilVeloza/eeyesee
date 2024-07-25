@@ -144,7 +144,7 @@ li {
     color: #aa90ff;
     font-size: 20px;
     font-family: montserrat;
-    background: #790c5a;
+    background: #069bc9;
     z-index: 10;
     display: flex;
     align-items: center;
@@ -312,7 +312,7 @@ li {
 
 .navigation-links ul li {
     color: rgb(241, 212, 212);
-    font-size: 50px;
+    font-size: 80px;
     text-align: center;
     font-weight: 300;
     font-family: camel;
@@ -437,7 +437,7 @@ li {
     z-index: 2;
     right: 0;
     bottom: 20%;
-    color: #ad0961;
+    color: #069bc9;
 }
 
 /* IMAGE TEXT WHEN NOT IN CENTER */
@@ -511,7 +511,7 @@ li {
 .logo {
     font-family: montserrat;
     font-size: 18px;
-    color: #790c5a;
+    color: #069bc9;
     position: fixed;
     left: 0;
     top: 0;
@@ -530,7 +530,7 @@ li {
     padding-top: 14px;
     font-family: montserrat;
     font-size: 18px;
-    color: #790c5a;
+    color: #069bc9;
     font-weight: 700;
     display: flex;
     align-items: center;
@@ -566,7 +566,7 @@ li {
     width: auto;
     display: inline;
     font-family: montserrat;
-    color: #790c5a;
+    color: #069bc9;
     font-weight: 500;
     font-size: 24px;
     padding: 20px 30px 20px 30px;
@@ -587,7 +587,7 @@ li {
     padding: 10px 20px;
     background: #aa90ff;
     font-family: montserrat;
-    color: #790c5a;
+    color: #069bc9;
     font-weight: 700;
     font-size: 18px;
     left: 1%;
@@ -629,7 +629,7 @@ li {
 .about-main-contents .about-info {
     width: 45%;
     height: auto;
-    color: #790c5a;
+    color: #069bc9;
     font-size: 18px;
     font-family: poppins;
     display: flex;
@@ -659,7 +659,7 @@ li {
     margin-top: 15px;
     font-size: 20px;
     text-align: center;
-    border: 2px solid #790c5a;
+    border: 2px solid #069bc9;
     border-radius: 4px;
     transition: all .4s ease;
 }
@@ -739,7 +739,7 @@ li {
     font-size: 48px;
     font-weight: 600;
     font-family: montserrat;
-    color: #790c5a;
+    color: #069bc9;
 }
 
 .image-selector {
@@ -757,13 +757,13 @@ li {
     font-size: 16px;
     margin: 10px;
     font-family: poppins;
-    color: #790c5a;
+    color: #ffffff;
     transition: all .4s ease;
 }
 
 .image-selector .active,
 .image-selector a:hover {
-    background: #790c5a;
+    background: #069bc9;
     color: #f1d4d4;
     transition: all .4s ease;
 }
@@ -828,7 +828,7 @@ li {
     /*ALL THE PAGES EXCEPT HOME SHOULD BE SET TO DISPLAY NONE*/
     background: #f1d4d4;
     overflow: hidden;
-    color: #790c5a;
+    color: #069bc9;
 }
 
 .contact-heading {
@@ -880,8 +880,8 @@ input,
 textarea {
     background: transparent;
     border: none;
-    border-bottom: 1px solid #790c5a;
-    color: #790c5a;
+    border-bottom: 1px solid #069bc9;
+    color: #069bc9;
     margin: 20px;
     padding: 10px 20px;
     padding-left: 0px;
@@ -900,15 +900,15 @@ textarea {
     text-align: center;
     background: transparent;
     border: none;
-    border: 1px solid #790c5a;
+    border: 1px solid #069bc9;
     font-size: 22px;
-    color: #790c5a;
+    color: #069bc9;
     font-family: poppins;
     transition: all .4s ease;
 }
 
 #submit:hover {
-    background: #790c5a;
+    background: #069bc9;
     color: #f1d4d4;
 }
 
@@ -926,7 +926,7 @@ form #message {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    color: #790c5a;
+    color: #069bc9;
     font-family: poppins;
     font-size: 18px;
 }
@@ -938,11 +938,11 @@ form #message {
 #contact .highlight {
     padding: 0px 10px;
     color: #f1d4d4;
-    background: #790c5a;
+    background: #069bc9;
 }
 
 #contact .contact-info-content ul {
-    color: #790c5a;
+    color: #069bc9;
     padding-top: 10px;
     display: flex;
     flex-direction: row;
@@ -1015,7 +1015,7 @@ form #message {
     .about-main-contents .about-info {
         width: 100%;
         height: auto;
-        color: #790c5a;
+        color: #069bc9;
         font-size: 18px;
         font-family: poppins;
         padding-left: 0px;
@@ -1052,7 +1052,7 @@ form #message {
         margin-top: 15px;
         font-size: 18px;
         text-align: center;
-        border: 2px solid #790c5a;
+        border: 2px solid #069bc9;
         border-radius: 4px;
         transition: all .4s ease;
     }
@@ -1231,7 +1231,7 @@ form #message {
     .about-main-contents .about-info {
         width: 100%;
         height: auto;
-        color: #790c5a;
+        color: #069bc9;
         font-size: 18px;
         font-family: poppins;
         padding-left: 20px;
